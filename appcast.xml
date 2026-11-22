@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Slider</title>
+    <link>https://github.com/jamdoran/slider-updates</link>
+    <language>en</language>
+    <item>
+      <title>Slider 1.5 RC1 (4)</title>
+      <pubDate>Sun, 22 Nov 2026 14:12:18 +0000</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.5 RC1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Slider 1.5 RC1 (4)</h3><ul>
+<li>Slider now updates itself automatically — new builds arrive in the background.</li>
+<li>Safari and Chrome are combined into one Browsers view; PowerPoint is the default view.</li>
+<li>Settings is now a standard macOS window with a Diagnostics tab.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/jamdoran/slider-updates/releases/download/b4/Slider-4.zip" type="application/octet-stream" sparkle:edSignature="pDBVwSdqwXzGJIa52oRRkvXOQGPLLiHuBf2gRtJjoaG0yXSNmTtYelSuH+cSieMkzVxu/DcEihtT8PtKpOxvBQ==" length="6818433"/>
+    </item>
+  </channel>
+</rss>
