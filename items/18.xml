@@ -1,0 +1,11 @@
+    <item>
+      <title>Slider 1.5 RC1 (18)</title>
+      <pubDate>Mon, 23 Nov 2026 22:35:18 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.5 RC1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Slider 1.5 RC1 (18)</h3><ul>
+<li>New look: Frosted White style with a soft grey nav in light mode. A permanent deck details panel replaces the card grid, row toolbar and Details window. Decks now always open by their exact file path or URL, so same-named decks never open the wrong file. Sets and Tags are now sidebar items, and Tags lets you filter by several tags at once. Settings has a cleaner, native layout.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/jamdoran/slider-updates/releases/download/b18/Slider-18.zip" type="application/octet-stream" sparkle:edSignature="m9EqGXN3iCU8GBxvNJ/tlVdlE4j1bxDXKZDhyNRUGU4AWzT5GPJk1Kyo46xxOKDouDZqw2kS/yS9vGdE5d6FCQ==" length="6851482"/>
+    </item>
