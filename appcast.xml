@@ -5,6 +5,17 @@
     <link>https://github.com/jamdoran/slider-updates</link>
     <language>en</language>
     <item>
+      <title>Slider 1.5 RC1 (24)</title>
+      <pubDate>Tue, 24 Nov 2026 01:14:20 +0000</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>1.5 RC1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Slider 1.5 RC1 (24)</h3><ul>
+<li>Details panel: sets list with quick add, Local/Cloud chip, Last seen, tidier filename. Tags: search plus the 20 most popular tags, All tags window, matches decks with every picked tag. Reminders: quieter, with a synced label; fired reminders clear after 5 days. Settings: new Appearance tab.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/jamdoran/slider-updates/releases/download/b24/Slider-24.zip" type="application/octet-stream" sparkle:edSignature="GV1AByfkHKC6CRmt7yWnKZi3uRATlzp5dbg1L8cKrXqvp7mvhWx5dgAzE0Aj0Cowmy2gx0PHjDglUPldWFcOAQ==" length="6915742"/>
+    </item>
+    <item>
       <title>Slider 1.5 RC1 (18)</title>
       <pubDate>Mon, 23 Nov 2026 22:35:18 +0000</pubDate>
       <sparkle:version>18</sparkle:version>
