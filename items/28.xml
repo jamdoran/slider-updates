@@ -1,0 +1,11 @@
+    <item>
+      <title>Slider 2.0 (28)</title>
+      <pubDate>Tue, 24 Nov 2026 10:47:44 +0000</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Slider 2.0 (28)</h3><ul>
+<li>Slider 2.0 — out of release candidate. New details panel with SharePoint/OneDrive icons and local slide thumbnails, Sets and Tags finder, Appearance settings.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/jamdoran/slider-updates/releases/download/b28/Slider-28.zip" type="application/octet-stream" sparkle:edSignature="mtNCeISwZtSjifSuYnLq2/Uh4ElBAc/8ai6Du+9OwssA+7+KZIzAxa/k7weAMMoXMbTQPo3moa+DAeFT5e/KAg==" length="6945478"/>
+    </item>
