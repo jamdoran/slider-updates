@@ -1,0 +1,11 @@
+    <item>
+      <title>Slider 1.5 RC1 (27)</title>
+      <pubDate>Tue, 24 Nov 2026 08:53:38 +0000</pubDate>
+      <sparkle:version>27</sparkle:version>
+      <sparkle:shortVersionString>1.5 RC1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Slider 1.5 RC1 (27)</h3><ul>
+<li>Deck details now show SharePoint and OneDrive icons for cloud decks, and a slide thumbnail for local files.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/jamdoran/slider-updates/releases/download/b27/Slider-27.zip" type="application/octet-stream" sparkle:edSignature="FjfzC0w4l231oDzrNADMvSbDBC6kn9blfF9gu+rQvmrUika0IkeX3ntTwNEJ5bGYCcA8pdEeREar1BCJz3/TCQ==" length="6945423"/>
+    </item>
