@@ -5,6 +5,17 @@
     <link>https://github.com/jamdoran/slider-updates</link>
     <language>en</language>
     <item>
+      <title>Slider 2.1 (30)</title>
+      <pubDate>Wed, 25 Nov 2026 09:49:54 +0000</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Slider 2.1 (30)</h3><ul>
+<li>Press Esc anywhere in the main window to clear the search and return to the PowerPoint list.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/jamdoran/slider-updates/releases/download/b30/Slider-30.zip" type="application/octet-stream" sparkle:edSignature="EQlh1cz0ofgLO1Tz/vslFtlhgT9pZNij6j7OrFxe5RNWFulllFN+QQiGCxFpOAKeM3esywae/eUuZP+vQQRWCA==" length="6940890"/>
+    </item>
+    <item>
       <title>Slider 2.0 (28)</title>
       <pubDate>Tue, 24 Nov 2026 10:47:44 +0000</pubDate>
       <sparkle:version>28</sparkle:version>
