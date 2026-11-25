@@ -5,6 +5,17 @@
     <link>https://github.com/jamdoran/slider-updates</link>
     <language>en</language>
     <item>
+      <title>Slider 2.2 (32)</title>
+      <pubDate>Wed, 25 Nov 2026 17:44:40 +0000</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Slider 2.2 (32)</h3><ul>
+<li>The search field is ready for typing whenever you switch to Slider.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/jamdoran/slider-updates/releases/download/b32/Slider-32.zip" type="application/octet-stream" sparkle:edSignature="JB4NrPPmv6uDCajD3000mWtLYXT93V8vPfqLkiR4ZIHpD/7SvU1um47ib7fpNZqrIiXTvL8iBjikuMDAow4iAw==" length="6945819"/>
+    </item>
+    <item>
       <title>Slider 2.1 (30)</title>
       <pubDate>Wed, 25 Nov 2026 09:49:54 +0000</pubDate>
       <sparkle:version>30</sparkle:version>
